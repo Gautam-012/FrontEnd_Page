@@ -8,7 +8,7 @@
 ## Sub Parts
 ![](samples/Image3.png)
 
-# Mobile View : Responsive 
+# Responsive : Mobile View 
 ## Starting Page
 ![](samples/image4.png)
 
